@@ -3,25 +3,25 @@ import { Briefcase } from "lucide-react";
 import { motion } from "framer-motion";
 
 const experiences = [
-  {
-    id: 1,
-    role: "Fullstack Developer Intern",
-    company: "GenixBit",
-    location: "Ahmedabad, Gujarat, India · Remote",
-    period: "May 2025 - Present · 2 mos",
-    description:
-      "Working as a Fullstack Developer Intern at GenixBit, contributing to web application development using modern technologies.",
-    skills: [
-      "HTML",
-      "Cascading Style Sheets (CSS)",
-      "JavaScript",
-      "TypeScript",
-      "React.js",
-      "Node.js",
-      "Express.js",
-      "MongoDB",
-    ],
-  },
+  // {
+  //   id: 1,
+  //   role: "Fullstack Developer Intern",
+  //   company: "GenixBit",
+  //   location: "Ahmedabad, Gujarat, India · Remote",
+  //   period: "May 2025 - Present · 2 mos",
+  //   description:
+  //     "Working as a Fullstack Developer Intern at GenixBit, contributing to web application development using modern technologies.",
+  //   skills: [
+  //     "HTML",
+  //     "Cascading Style Sheets (CSS)",
+  //     "JavaScript",
+  //     "TypeScript",
+  //     "React.js",
+  //     "Node.js",
+  //     "Express.js",
+  //     "MongoDB",
+  //   ],
+  // },
   {
     id: 2,
     role: "Fullstack Developer Intern",
