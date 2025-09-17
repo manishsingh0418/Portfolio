@@ -48,7 +48,7 @@ const Hero = () => {
                 Contact Me
               </Link>
               <a
-                href="/Manish_SDE_V7.pdf"
+                href="/Manish_SDE_V5.pdf"
                 download
                 className="btn-outline cursor-pointer"
               >
