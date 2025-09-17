@@ -3,25 +3,24 @@ import { Briefcase } from "lucide-react";
 import { motion } from "framer-motion";
 
 const experiences = [
-  // {
-  //   id: 1,
-  //   role: "Fullstack Developer Intern",
-  //   company: "GenixBit",
-  //   location: "Ahmedabad, Gujarat, India · Remote",
-  //   period: "May 2025 - Present · 2 mos",
-  //   description:
-  //     "Working as a Fullstack Developer Intern at GenixBit, contributing to web application development using modern technologies.",
-  //   skills: [
-  //     "HTML",
-  //     "Cascading Style Sheets (CSS)",
-  //     "JavaScript",
-  //     "TypeScript",
-  //     "React.js",
-  //     "Node.js",
-  //     "Express.js",
-  //     "MongoDB",
-  //   ],
-  // },
+  {
+    id: 1,
+    role: "Software Development Engineer (SDE) Intern",
+    company: "Ozi Technologies Private Limited",
+    location: "Gurgaon, Haryana",
+    period: "June 2025 – Sept 2025",
+    description:
+      "Built and deployed scalable web applications for a quick commerce and e-commerce company, including a full-featured platform and an Order Management System using React.js, Next.js, React Admin, Tailwind CSS, and Material UI. Integrated RESTful APIs with backend services, optimized performance, and developed responsive, reusable UI components.",
+    skills: [
+      "React.js",
+      "Next.js",
+      "React Admin",
+      "Tailwind CSS",
+      "Material UI",
+      "RESTful APIs",
+      "React Hooks",
+    ],
+  },
   {
     id: 2,
     role: "Fullstack Developer Intern",
