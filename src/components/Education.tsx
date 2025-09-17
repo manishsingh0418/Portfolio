@@ -13,7 +13,7 @@ const educationData: EducationItem[] = [
     institution: "Vellore Institute of Technology",
     degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
     duration: "Aug 2021 - May 2025",
-    grade: "8.33 CGPA",
+    grade: "8.34 CGPA",
     skills: [
       "C++",
       "Object-Oriented Programming (OOP)",
