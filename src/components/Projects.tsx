@@ -67,7 +67,7 @@ const projects = [
   {
     id: 1,
     title: 'Maitree Marathi - Language Learning Platform',
-    period: 'Dec 2024 - Feb 2025',
+    period: 'October 2025 - December 2025',
     description: [
       'Developed a full-stack Marathi language learning platform with lessons, quizzes, AI chatbot, subscription model, and referral rewards system.',
       'Implemented sequential lesson unlocking, progress tracking, quiz-based assessments, and multi-level course structure.',
